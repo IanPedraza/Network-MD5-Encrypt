@@ -2,6 +2,17 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/interfaces/IServerService.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/model/REQUEST_TYPE.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/interfaces/IRequestManager.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/view/Main.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/network/RequestManager.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/interfaces/IDataBaseManager.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/model/Encrypt.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/network/ServerService.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/network/DataBaseManager.java</file>
+            <file>file:/C:/Users/ianpe/Documents/NetBeansProjects/MD5EncryptServer/src/model/Utils.java</file>
+        </group>
     </open-files>
 </project-private>
